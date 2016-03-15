@@ -285,7 +285,6 @@ static NSError * AFErrorFromRFC6749Section5_2Error(id object) {
 @end
 
 @implementation AFOAuthCredential
-@dynamic expired;
 
 #pragma mark -
 
